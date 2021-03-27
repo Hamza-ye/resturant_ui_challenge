@@ -79,7 +79,7 @@ class ProductItem extends StatelessWidget {
                 color: Constants.ratingBG,
                 allowHalfRating: true,
                 rating: rating,
-                size: 10.0,
+                size: 15.0,
               ),
               SizedBox(
                 width: 8,
